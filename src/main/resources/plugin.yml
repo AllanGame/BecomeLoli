@@ -1,0 +1,5 @@
+name: BecomeLoli
+version: 1.0.0
+main: me.allangame.becomeloli.BecomeLoli
+
+commands:
